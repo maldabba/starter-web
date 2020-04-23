@@ -4,4 +4,7 @@ this is level 1 file added.. we can add recursivly to git.
 to add multiple directories in different level we use mkdir -p [folder1/folder2/folder3]
 
 this will add them inside each other.
+this paragraph will be removed. we use $ git reset HEAD level1.txt.
+
+this is third addition of text to this file. this is to be backedMost commands can be issue anywhere withing the git repository.
 
