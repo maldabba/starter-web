@@ -1,2 +1,8 @@
 this is added in level two.
 
+
+To rename a file using the bash mv not git mv. git will see it as two seprate operations. adding a file with a new name and  and Delete the file. for this we use $ mv [filename.txt newfilename.txt]. this will do outside of git. then we add it on git by $ git add -A. it will update files renamed, moved and deleted recursivly.
+
+IT IS ALWAYS BETTER To do the renaming first, then do the changes in the file so it makes it easier for git to track the changes.
+
+
