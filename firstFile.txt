@@ -1,4 +1,9 @@
 this is the first text file to add to the repository.
 
+This is the second edition to the text.
+Just some random text.... 
+remember to pull before pushing
+
+
 
 
