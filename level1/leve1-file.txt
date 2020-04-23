@@ -1,0 +1,7 @@
+this is level 1 file added.. we can add recursivly to git.
+
+
+to add multiple directories in different level we use mkdir -p [folder1/folder2/folder3]
+
+this will add them inside each other.
+
