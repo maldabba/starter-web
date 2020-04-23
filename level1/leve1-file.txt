@@ -8,3 +8,4 @@ this paragraph will be removed. we use $ git reset HEAD level1.txt.
 
 this is third addition of text to this file. this is to be backedMost commands can be issue anywhere withing the git repository.
 
+a rolling back a change in a file using git reset HEAD [filename.txt].
