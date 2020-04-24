@@ -1,6 +1,8 @@
 # Starter Web Repo
-first pound is the first level heading.
-md format markdown format(for github uses.)
+-- first pound is the first level heading.
+-- md format markdown format(for github uses.)
+this is a simple website project for showing how to use git and github together.
+
 
 ## Introduction
 
