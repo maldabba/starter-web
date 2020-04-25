@@ -45,6 +45,8 @@ the '^' meand HEAD - 1
 
 
 ## HOW TO CONTRIBUTE
+Please fork this repo and then issue Pull Request for review.
+
 
 ## Copyright notice
 
