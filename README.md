@@ -44,5 +44,9 @@ the '^' meand HEAD - 1
 
 
 
-### HOW TO CONTRIBUTE
+## HOW TO CONTRIBUTE
+
+## Copyright notice
+
+
 
