@@ -10,6 +10,7 @@ This is a line added for rebasing whatever that is, then added this on the secon
 this is for practice.
 
 This repository is for showing how Git and GitHub work
+updating for the stash examaple.
 
 ## Purpose
 provide example and some commands with their application.
