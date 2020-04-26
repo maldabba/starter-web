@@ -3,6 +3,8 @@
 -- md format markdown format(for github uses.)
 this is a simple website project for showing how to use git and github together.
 
+This is a line added for rebasing whatever that is.
+
 
 ## Introduction
 this is for practice.
