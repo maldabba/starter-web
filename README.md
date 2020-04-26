@@ -51,6 +51,7 @@ Please fork this repo and then issue Pull Request for review.
 
 
 ## Copyright notice
+2020 Git Training. All Rights Reserved.
 
 
 
